@@ -1,7 +1,7 @@
 # waws_reading_notes
 > waws的读书笔记
 
-注意：推荐指数中：:star:代表一颗星，:star2:代表半颗星​
+:star: 代表一颗星，:star2: 代表半颗星​
 
 ### 2024
 
